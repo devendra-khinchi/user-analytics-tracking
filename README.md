@@ -102,6 +102,16 @@ http://localhost:8000/demo.html
 
 ---
 
+## Screen Shots
+
+### Dashboard Preview
+
+![Dashboard](./dashboard-session-view.png)
+
+### Heatmap Preview
+
+![Heatmap](./dashboard-heatmap-view.png)
+
 ## 👨‍💻 Author
 
 Devendra Khinchi
